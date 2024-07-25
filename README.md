@@ -1,6 +1,6 @@
 # Game-of-Life
 
-### Conway's game of life made using Lua & LÖVE. 
+### Conway's game of life made using Lua with LÖVE. 
 
 ### The rules have been modified as follows
 - Any live cell with no neighbors dies due to underpopulation.
