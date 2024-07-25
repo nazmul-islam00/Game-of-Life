@@ -2,6 +2,8 @@
 
 ### Conway's game of life made using Lua with LÖVE. 
 
+![](https://github.com/nazmul-islam00/Game-of-Life/blob/main/game-of-life.gif)
+
 ### The rules have been modified as follows
 - Any live cell with no neighbors dies due to underpopulation.
 - Any live cell with more than 5 neighbors dies due to overpopulation.
@@ -12,7 +14,4 @@
 ### Move into the working directory and run the following:
 ```shell
 love .
-```
-
-![](https://github.com/nazmul-islam00/Game-of-Life/blob/main/game-of-life.gif)
- 
+``` 
